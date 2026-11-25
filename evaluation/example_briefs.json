@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Campus Book Exchange",
+    "description": "A platform where students can list, find and exchange used textbooks.",
+    "goals": ["Make book exchange easy", "Reduce student spending"],
+    "features": ["Book listings", "Search", "Messaging", "User accounts"],
+    "constraints": ["Local MVP", "Small team"],
+    "team_size": 3,
+    "duration_weeks": 6,
+    "sprint_capacity": 18
+  },
+  {
+    "name": "Clinic Appointment Portal",
+    "description": "A portal for patients to view appointments and request scheduling changes.",
+    "goals": ["Reduce phone calls", "Improve appointment visibility"],
+    "features": ["Appointment calendar", "Patient authentication", "Notifications"],
+    "constraints": ["No sensitive health data in MVP", "Availability must be visible"],
+    "team_size": 4,
+    "duration_weeks": 8,
+    "sprint_capacity": 24
+  },
+  {
+    "name": "Freelancer Time Tracker",
+    "description": "An ambiguous MVP for tracking project time and creating reports.",
+    "goals": [],
+    "features": ["Timer", "Reports"],
+    "constraints": ["Cloud integration is undecided"],
+    "team_size": 2,
+    "duration_weeks": 4,
+    "sprint_capacity": 12
+  }
+]
